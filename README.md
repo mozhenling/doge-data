@@ -43,7 +43,8 @@ Datasets for condition monitoring and fault diagnosis
 ### Bearing
 - [CWRU bearing datasets](https://engineering.case.edu/bearingdatacenter)
 >Motor bearings were seeded with faults using electro-discharge machining (EDM). Faults ranging from 0.007 inches in diameter to 0.040 inches in diameter were introduced separately at the inner raceway, rolling element (i.e. ball) and outer raceway. Faulted bearings were reinstalled into the test motor and vibration data was recorded for motor loads of 0 to 3 horsepower (motor speeds of 1797 to 1720 RPM).
-![CWRU](.README_images/CWRU.png)
+> 
+>![CWRU](.README_images/CWRU.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
@@ -52,18 +53,21 @@ Datasets for condition monitoring and fault diagnosis
 -3 outer race fault conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of 97,656 sps for 6 seconds  
 -7 outer race fault conditions: 25, 50, 100, 150, 200, 250 and 300 lbs of load, input shaft rate 25 Hz, sample rate of 48,828 sps for 3 seconds (bearing resonance was found be less than 20 kHz)  
 -7 inner race fault conditions: 0, 50, 100, 150, 200, 250 and 300 lbs of load, input shaft rate of 25 Hz, sample rate of 48,828 sps for 3 seconds
-![MFPT](.README_images/MFPT.png)
+>
+>![MFPT](.README_images/MFPT.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
 - [PU bearing datasets](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter)
 >Bearings were divided into: (1) six undamaged bearings; (2) twelve artificially damaged bearings; (3) fourteen bearings with real damages caused by accelerated lifetime tests. Each dataset was collected under four working conditions
+>
 >![PU](.README_images/PU.png) 
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
 - [JNU bearing dataset](http://mad-net.org:8765/explore.html?t=0.5831516555847212)
 >JNU datasets consisted of three bear- ing vibration datasets with different rotating speeds, and the data were collected at 50 kHz. JNU datasets contained one health state and three fault modes which include inner ring fault, outer ring fault, and rolling element fault.
+>
 >![JNU](.README_images/JNU.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
