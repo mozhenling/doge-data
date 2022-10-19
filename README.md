@@ -9,7 +9,6 @@ Contributions are welcome. Any datasets? Send in a pull request. Thanks.
 
 ## Table of Contents
 
----
 <!--
 
 Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
@@ -30,6 +29,8 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Wind Turbine](#wind-turbine)
 
 <!-- toc! -->
+
+---
 
 ## Fault Datasets
 Datasets for condition monitoring and fault diagnosis
