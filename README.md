@@ -55,7 +55,7 @@ Datasets for condition monitoring and fault diagnosis
 > data set includes actuator position and motor current measurements for the different
 > conditions mentioned.
 > 
-> ![](.README_images/CU_linear actuator.png)
+>![CU_linear actuator](.README_images/CU_linear actuator.png)
 
 
 ### Bearing
@@ -70,7 +70,7 @@ Datasets for condition monitoring and fault diagnosis
 > test motor and vibration data was recorded for motor loads of 0 to 3 
 > horsepower (motor speeds of 1797 to 1720 RPM).
 > 
-> ![](.README_images/CWRU_test_rig.png)
+>![CWRU_test_rig](.README_images/CWRU_test_rig.png)
 >![CWRU](.README_images/CWRU.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
@@ -89,7 +89,7 @@ Datasets for condition monitoring and fault diagnosis
 >7 inner race fault conditions: 0, 50, 100, 150, 200, 250 and 300 lbs of load, 
 > input shaft rate of 25 Hz, sample rate of 48,828 sps for 3 seconds
 > 
-> > ![](.README_images/MFPT_bearing.png)
+>![MFPT_bearing](.README_images/MFPT_bearing.png)
 >![MFPT](.README_images/MFPT.png)
 > 
 > [table source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
@@ -100,7 +100,7 @@ Datasets for condition monitoring and fault diagnosis
 > damaged bearings; (3) fourteen bearings with real damages caused by accelerated
 > lifetime tests. Each dataset was collected under four working conditions
 > 
->![](.README_images/PU_test_rig.png)
+>![PU_test_rig](.README_images/PU_test_rig.png)
 >![PU](.README_images/PU.png) 
 > 
 > [table source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
@@ -135,7 +135,7 @@ Datasets for condition monitoring and fault diagnosis
 > data was acquired at the sampling rate of 10 kHz at the rate of 1000 samples per
 > channel.
 > 
-> ![](.README_images/MUET_test_rig.png)
+> ![MUET_test_rig](.README_images/MUET_test_rig.png)
 
 ### Drill Bit
 #### IITK
@@ -151,7 +151,7 @@ Indian Institute of Technology Kanpur
 > 8 mm/min and 12 mm/min, and Cutting speed was varied as 160rpm, 170rpm, 180rpm,
 > 190rpm and 200rpm; giving a total of 15 combination pairs.
 > 
-> ![](.README_images/IITK_drill bit.png)
+> ![IITK_drill bit](.README_images/IITK_drill bit.png)
 
 ### Gear
 
