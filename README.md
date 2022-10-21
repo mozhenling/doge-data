@@ -45,7 +45,7 @@ Datasets for condition monitoring and fault diagnosis
 #### CU
 - [Data Link](https://cord.cranfield.ac.uk/articles/dataset/Data_set_for_Data-based_Detection_and_Diagnosis_of_Faults_in_Linear_Actuators_/5097649)
 - [Paper](https://ieeexplore.ieee.org/document/8326716)
->Through-life Engineering Services Institute, Cranfield University, Cranfield, U.K.
+> **Through-life Engineering Services Institute, Cranfield University**
 > 
 >The data was acquired from a linear actuator rig operated using different loading
 > conditions and motion profiles. In addition, three different faults (lack of 
@@ -58,7 +58,14 @@ Datasets for condition monitoring and fault diagnosis
 ### Bearing
 #### CWRU 
 - [Data Link](https://engineering.case.edu/bearingdatacenter)
->Motor bearings were seeded with faults using electro-discharge machining (EDM). Faults ranging from 0.007 inches in diameter to 0.040 inches in diameter were introduced separately at the inner raceway, rolling element (i.e. ball) and outer raceway. Faulted bearings were reinstalled into the test motor and vibration data was recorded for motor loads of 0 to 3 horsepower (motor speeds of 1797 to 1720 RPM).
+> **Case Western Reserve University**
+> 
+> Motor bearings were seeded with faults using electro-discharge machining
+> (EDM). Faults ranging from 0.007 inches in diameter to 0.040 inches in 
+> diameter were introduced separately at the inner raceway, rolling element 
+> (i.e. ball) and outer raceway. Faulted bearings were reinstalled into the
+> test motor and vibration data was recorded for motor loads of 0 to 3 
+> horsepower (motor speeds of 1797 to 1720 RPM).
 > 
 >![CWRU](.README_images/CWRU.png)
 > 
@@ -66,7 +73,9 @@ Datasets for condition monitoring and fault diagnosis
 
 #### MFPT
 - [Data Link](https://www.mfpt.org/fault-data-sets/#:~:text=A%20bearing%20fault%20dataset%20has,and%20three%20real%2Dworld%20faults.)
->-3 baseline conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of
+> **Mechanical Failures Prevention Group**
+> 
+> -3 baseline conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of
 > 97,656 sps, for 6 seconds  
 >-3 outer race fault conditions: 270 lbs of load, input shaft rate of 25 Hz, sample 
 > rate of 97,656 sps for 6 seconds  
@@ -92,6 +101,8 @@ Datasets for condition monitoring and fault diagnosis
 
 #### JNU
 - [Data Link](http://mad-net.org:8765/explore.html?t=0.5831516555847212)
+> **School of Mechanical Engineering, Jiangnan University**
+> 
 >JNU datasets consisted of three bearing vibration datasets with different rotating
 > speeds, and the data were collected at 50 kHz. JNU datasets contained one health 
 > state and three fault modes which include inner ring fault, outer ring fault, and
@@ -105,7 +116,8 @@ Datasets for condition monitoring and fault diagnosis
 #### MUET
 - [Data Link](https://data.mendeley.com/datasets/fm6xzxnf36/2)  
 - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156863/)
->NCRA Condition Monitoring Systems Lab, Mehran University of Engineering and Technology
+> **NCRA Condition Monitoring Systems Lab, 
+> Mehran University of Engineering and Technology***
 >
 >The dataset includes triaxial vibration data of bearing of induction motor operated 
 > under different load conditions along the axes x, y, and z. It includes triaxial 
