@@ -23,7 +23,12 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 * [Fault Datasets](#fault-datasets)
   * [Actuator](#actuator)
   * [Bearing](#bearing)
+    * [CWRU](#cwru)
+    * [MFPT](#mfpt)
+    * [PU](#pu)
+    * [JNU](#jnu)
   * [Motor](#motor)
+    * [MUET](#muet)
   * [Bearing](#gear)
   * [Sensor](#sensor)
   * [Wind Turbine](#wind-turbine)
@@ -41,38 +46,66 @@ Datasets for condition monitoring and fault diagnosis
 
 
 ### Bearing
-- [CWRU bearing datasets](https://engineering.case.edu/bearingdatacenter)
+#### CWRU 
+[Download](https://engineering.case.edu/bearingdatacenter)
 >Motor bearings were seeded with faults using electro-discharge machining (EDM). Faults ranging from 0.007 inches in diameter to 0.040 inches in diameter were introduced separately at the inner raceway, rolling element (i.e. ball) and outer raceway. Faulted bearings were reinstalled into the test motor and vibration data was recorded for motor loads of 0 to 3 horsepower (motor speeds of 1797 to 1720 RPM).
 > 
 >![CWRU](.README_images/CWRU.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
-- [MFPT bearing datasets](https://www.mfpt.org/fault-data-sets/#:~:text=A%20bearing%20fault%20dataset%20has,and%20three%20real%2Dworld%20faults.)
->-3 baseline conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of 97,656 sps, for 6 seconds  
--3 outer race fault conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of 97,656 sps for 6 seconds  
--7 outer race fault conditions: 25, 50, 100, 150, 200, 250 and 300 lbs of load, input shaft rate 25 Hz, sample rate of 48,828 sps for 3 seconds (bearing resonance was found be less than 20 kHz)  
--7 inner race fault conditions: 0, 50, 100, 150, 200, 250 and 300 lbs of load, input shaft rate of 25 Hz, sample rate of 48,828 sps for 3 seconds
+#### MFPT
+[Download](https://www.mfpt.org/fault-data-sets/#:~:text=A%20bearing%20fault%20dataset%20has,and%20three%20real%2Dworld%20faults.)
+>-3 baseline conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of
+> 97,656 sps, for 6 seconds  
+>-3 outer race fault conditions: 270 lbs of load, input shaft rate of 25 Hz, sample 
+> rate of 97,656 sps for 6 seconds  
+>-7 outer race fault conditions: 25, 50, 100, 150, 200, 250 and 300 lbs of load,
+> input shaft rate 25 Hz, sample rate of 48,828 sps for 3 seconds (bearing 
+> resonance was found be less than 20 kHz)  
+>7 inner race fault conditions: 0, 50, 100, 150, 200, 250 and 300 lbs of load, 
+> input shaft rate of 25 Hz, sample rate of 48,828 sps for 3 seconds
 >
 >![MFPT](.README_images/MFPT.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
-- [PU bearing datasets](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter)
->Bearings were divided into: (1) six undamaged bearings; (2) twelve artificially damaged bearings; (3) fourteen bearings with real damages caused by accelerated lifetime tests. Each dataset was collected under four working conditions
+#### PU
+[Download](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter)
+>Bearings were divided into: (1) six undamaged bearings; (2) twelve artificially 
+> damaged bearings; (3) fourteen bearings with real damages caused by accelerated
+> lifetime tests. Each dataset was collected under four working conditions
 >
 >![PU](.README_images/PU.png) 
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
-- [JNU bearing dataset](http://mad-net.org:8765/explore.html?t=0.5831516555847212)
->JNU datasets consisted of three bear- ing vibration datasets with different rotating speeds, and the data were collected at 50 kHz. JNU datasets contained one health state and three fault modes which include inner ring fault, outer ring fault, and rolling element fault.
+#### JNU
+[Download](http://mad-net.org:8765/explore.html?t=0.5831516555847212)
+>JNU datasets consisted of three bearing vibration datasets with different rotating
+> speeds, and the data were collected at 50 kHz. JNU datasets contained one health 
+> state and three fault modes which include inner ring fault, outer ring fault, and
+> rolling element fault.
 >
 >![JNU](.README_images/JNU.png)
 > 
 > [image source](https://www.sciencedirect.com/science/article/pii/S0019057820303335)
 
 ### Motor
+#### MUET
+[Download](https://data.mendeley.com/datasets/fm6xzxnf36/2)
+>NCRA Condition Monitoring Systems Lab, Mehran University of Engineering and Technology
+>
+>The dataset includes triaxial vibration data of bearing of induction motor operated 
+> under different load conditions along the axes x, y, and z. It includes triaxial 
+> vibration datasets of motor in healthy condition with and without pulley. Moreover,
+> the faulty conditions of bearings include inner race and outer race faults of (i)
+> 0.7mm, (i) 0.9mm, (i) 1.1mm, (i) 1.3mm, (i) 1.5m, and (i) 1.7mm. The bearings with
+> these fault severity levels were operated under different load conditions including 
+> 100W, 200W, and 300W. There are total 38 datasets of the bearing conditions. The 
+> data was acquired at the sampling rate of 10 kHz at the rate of 1000 samples per
+> channel.
+
 
 ### Gear
 
