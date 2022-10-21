@@ -55,7 +55,7 @@ Datasets for condition monitoring and fault diagnosis
 > data set includes actuator position and motor current measurements for the different
 > conditions mentioned.
 > 
->![CU_linear actuator](.README_images/CU_linear actuator.png)
+>![CU_linear actuator](.README_images/CU_linear_actuator.png)
 
 
 ### Bearing
@@ -151,7 +151,7 @@ Indian Institute of Technology Kanpur
 > 8 mm/min and 12 mm/min, and Cutting speed was varied as 160rpm, 170rpm, 180rpm,
 > 190rpm and 200rpm; giving a total of 15 combination pairs.
 > 
-> ![IITK_drill bit](.README_images/IITK_drill bit.png)
+> ![IITK_drill bit](.README_images/IITK_drill_bit.png)
 
 ### Gear
 
