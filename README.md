@@ -29,7 +29,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
     * [JNU](#jnu)
   * [Motor](#motor)
     * [MUET](#muet)
-  * [Bearing](#gear)
+  * [Gear](#gear)
   * [Sensor](#sensor)
   * [Wind Turbine](#wind-turbine)
 
