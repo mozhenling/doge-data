@@ -196,4 +196,15 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 
 ### Relevant Links
 #### Popular Data Repositories
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Data in Brief](https://www.data-in-brief.com/)
+- [Zenodo](https://zenodo.org/)
+- [Data-World](https://data.world/)
+- [Mendeley Data](https://data.mendeley.com/)
+- [figshare](http://figshare.com/)
+- [Zenodo](https://zenodo.org/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [Harvard Dataverse](http://dataverse.harvard.edu/)
+- [Dryad Digital Repository](http://datadryad.org/)
+- [Github](https://github.com/)
+- [Kaggle](https://www.kaggle.com/)
