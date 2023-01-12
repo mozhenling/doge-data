@@ -67,6 +67,37 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Bearing
+
+#### KAIST
+- [Data Link 1 for bearing (different loads) ](https://data.mendeley.com/datasets/ztmf3m7h5x)
+- [Data Link 2 for bearing (different speeds) ](https://data.mendeley.com/datasets/ztmf3m7h5x)
+- [Data Link 3 for motor stator faults](https://data.mendeley.com/datasets/rgn5brrgrn)
+- <details>
+  <summary>More detail</summary>
+
+  > **Korea Advanced Institute of Science and Technology**
+  > 
+  > 1 This article presents time-series dataset including vibration, acoustic,
+  > temperature, and motor current data for rotating machines under varying
+  > load conditions.  The conditions of the rotating machine include normal,
+  > bearing inner race faults, bearing outer race faults, shaft misalignment,
+  > and rotor unbalance with three different load conditions. 
+  > 
+  > 2 This article discloses vibration and motor current data for bearing faults under
+  > varying speed conditions from 680 RPM to 2460 RPM. The bearing conditions include 
+  > healthy bearing, bearings with inner race faults, and bearings with outer race faults.
+  > For each faulty bearing condition, the three-phase induction motor is operated under 
+  > randomly varying speed conditions. 
+  > 
+  > 3 This dataset provides vibration and motor current data for fault diagnosis of motor winding faults. 
+  > Vibration data is acquired with a sampling frequency of 25.6 kHz, and current data is acquired with 
+  > a sampling frequency of 100 kHz. In order to acquire the data, a testbed with motor winding faults 
+  > was used.
+  > 
+  > ![KAIST_test_rig](.README_images/KAIST_test_rig.png)
+
+</details>
+
 #### CWRU 
 - [Data Link](https://engineering.case.edu/bearingdatacenter)
 - <details>
@@ -193,6 +224,14 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 ### Sensor
 
 ### Wind Turbine
+
+## Interesting Data
+Interesting data even though may not suit domain generalization 
+### Railway Track Surface Faults Dataset
+- [Data Link](https://data.mendeley.com/datasets/8hxtgyyxrw/2)
+### Autonomous Underwater Vehicle Fault Diagnosis Dataset
+- [Data Link](https://data.mendeley.com/datasets/7rp2pmr6mx)
+
 
 ### Relevant Links
 #### Popular Data Repositories
