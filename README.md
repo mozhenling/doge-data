@@ -27,6 +27,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Actuator](#actuator)
     * [CU](#cu)
   * [Bearing](#bearing)
+    * [KAIST](#kaist)
     * [CWRU](#cwru)
     * [MFPT](#mfpt)
     * [PU](#pu)
@@ -36,6 +37,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Gear](#gear)
   * [Sensor](#sensor)
   * [Wind Turbine](#wind-turbine)
+* [Interesting Data](#interesting-data)
 * [Relevant Links](#relevant-links)
   * [Popular Data Repositories](#popular-data-repositories)
 
