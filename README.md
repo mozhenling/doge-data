@@ -35,6 +35,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Motor](#motor)
     * [MUET](#muet)
   * [Gear](#gear)
+    * [UNSW](#unsw)
   * [Sensor](#sensor)
   * [Wind Turbine](#wind-turbine)
 * [Interesting Data](#interesting-data)
@@ -222,6 +223,31 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Gear
+#### UNSW
+- [Data Link](https://data.mendeley.com/datasets/p72x3m92cv)
+- [Paper](https://doi.org/10.1016/j.ymssp.2022.108957)
+- <details>
+  <summary>More detail</summary>
+
+  >Tribology and Machine Condition Monitoring (TMCM) group at the 
+  > University of New South Wales
+  > 
+  > A series of tests were conducted at different operating loads
+  > and speeds, with pinion cracks of three different sizes (small, 
+  > medium and large). 
+  > 
+  > A total of 90 test files are available, corresponding to all the 
+  > combinations of the following:
+  > 
+  > - Crack severity: Healthy (H), Small crack (S), Medium crack (M), 
+  > Large crack (L)
+  > 
+  > - Speed: 2, 5, 10, 15, 20 Hz (nominal values)
+  > 
+  > - Torque: 0, 5, 10, 15, 20 Nm (nominal values)
+  > ![UNSW_gear_crack](.README_images/UNSW_gear_crack.png)
+
+</details>
 
 ### Sensor
 
