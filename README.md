@@ -73,7 +73,9 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 
 #### KAIST
 - [Data Link 1 for bearing (different loads) ](https://data.mendeley.com/datasets/ztmf3m7h5x)
-- [Data Link 2 for bearing (different speeds) ](https://data.mendeley.com/datasets/j8d8pfkvj2)
+- - [Data Link 2 for bearing (different speeds Part 1) ](https://data.mendeley.com/datasets/vxkj334rzv)
+- - [Data Link 2 for bearing (different speeds Part 2) ](https://data.mendeley.com/datasets/x3vhp8t6hg)
+- [Data Link 2 for bearing (different speeds Part 3) ](https://data.mendeley.com/datasets/j8d8pfkvj2)
 - [Data Link 3 for motor stator faults](https://data.mendeley.com/datasets/rgn5brrgrn)
 - <details>
   <summary>More detail</summary>
