@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'add UNSW gear'
+git commit . -m 'update KAIST'
 
 git push origin main
 
