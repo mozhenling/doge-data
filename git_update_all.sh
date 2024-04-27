@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update KAIST'
+git commit . -m 'add DLR and RNA'
 
 git push origin main
 

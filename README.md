@@ -27,15 +27,20 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Actuator](#actuator)
     * [CU](#cu)
   * [Bearing](#bearing)
+    * [DLR](#dlr)
     * [KAIST](#kaist)
     * [CWRU](#cwru)
     * [MFPT](#mfpt)
     * [PU](#pu)
     * [JNU](#jnu)
-  * [Motor](#motor)
-    * [MUET](#muet)
+  * [Drill](#drill)
+    * [IITK](#iitk)
   * [Gear](#gear)
     * [UNSW](#unsw)
+  * [Motor](#motor)
+    * [MUET](#muet)
+  * [Pump](#pump)
+    * [RNA](#rna)
   * [Sensor](#sensor)
   * [Wind Turbine](#wind-turbine)
 * [Interesting Data](#interesting-data)
@@ -70,6 +75,29 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Bearing
+
+#### DLR
+- [Data Link](https://data.mendeley.com/datasets/chwhh9n3bf/2)
+
+- <details>
+  <summary>More detail</summary>
+  Institutions: Deutsches Zentrum fur Luft und Raumfahrt Standort Braunschweig, Tekniker
+  
+  The datasets involve vibration measurements for axial ball bearings in healthy 
+  and faulty conditions. The faulty conditions are for artificially-seeded spall
+  defects at the outer and the inner races. There are 28 datasets in two groups.
+  The first group is for a fault-free condition and it consists of four datasets.
+  The second group involves 24 datasets for six levels of fault-sizes and four 
+  loading groups. The file is a standard MATLAB data file ".mat". The file name
+  for each dataset follows the following format: (NX_R_S_T.mat), where X indicates
+  the applied axial load in kN, R is the spindle speed in revolutions per minute,
+  S is the spall fault width in millimeters and T is the spall location on 
+  the outer or the inner races. Each dataset has a single time series for the
+  axial vibration from an accelerometer mounted on the bearing outer race 
+  (radial axis).  Both of the spindle speed and the axial load are time invariant 
+  within the dataset. All datasets are sampled at 25.6 kHz for a duration of 30 
+  seconds.
+</details>
 
 #### KAIST
 - [Data Link 1 for bearing (different loads) ](https://data.mendeley.com/datasets/ztmf3m7h5x)
@@ -203,7 +231,7 @@ Datasets with multiple working conditions for condition monitoring and fault dia
   > ![MUET_test_rig](.README_images/MUET_test_rig.png)
 </details>
 
-### Drill Bit
+### Drill
 #### IITK
 - [Data Link](https://www.iitk.ac.in/idea/datasets/)
 - [Paper](https://rs.ieee.org/images/files/newsletters/2015/_12_Data_Driven_Aproach_for_Drill_Bit_Monitoring_Modified_20150323.doc.pdf)
@@ -250,6 +278,10 @@ Datasets with multiple working conditions for condition monitoring and fault dia
   > ![UNSW_gear_crack](.README_images/UNSW_gear_crack.png)
 
 </details>
+
+### Pump
+#### RNA
+- [Data Link](https://www.data-in-brief.com/article/S2352-3409(23)01017-X/fulltext)
 
 ### Sensor
 
