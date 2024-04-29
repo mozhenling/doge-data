@@ -40,6 +40,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
     * [MCC5-THU](#mcc5-thu)
     * [UNSW](#unsw)
   * [Motor](#motor)
+    * [BNUT](#bnut)
     * [MUET](#muet)
   * [Pump](#pump)
     * [RNN](#rnn)
@@ -235,6 +236,20 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Motor
+
+#### BNUT
+- [Data Link](https://data.mendeley.com/datasets/m4sbt8hbvk/3)  
+- <details>
+  <summary>More detail</summary>
+  This is a thermal image dataset specifically focused on condition monitoring 
+  of electrical equipment, specifically induction motors. The dataset includes
+  artificially generated internal faults, such as short circuit failures in 
+  the stator windings, stuck rotor faults, and cooling fan failures. The 
+  thermal images were acquired using a Dali-tech T4/T8 infrared thermal image
+  camera in an Electrical Machines Laboratory, with an ambient temperature of
+  23°. 
+</details>
+
 #### MUET
 - [Data Link](https://data.mendeley.com/datasets/fm6xzxnf36/2)  
 - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156863/)
