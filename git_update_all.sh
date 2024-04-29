@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'add DLR and RNA'
+git commit . -m 'add JUST and MCC5-THU'
 
 git push origin main
 

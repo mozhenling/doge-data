@@ -27,6 +27,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Actuator](#actuator)
     * [CU](#cu)
   * [Bearing](#bearing)
+    * [JUST](#just)
     * [DLR](#dlr)
     * [KAIST](#kaist)
     * [CWRU](#cwru)
@@ -36,11 +37,12 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Drill](#drill)
     * [IITK](#iitk)
   * [Gear](#gear)
+    * [MCC5-THU](#mcc5-thu)
     * [UNSW](#unsw)
   * [Motor](#motor)
     * [MUET](#muet)
   * [Pump](#pump)
-    * [RNA](#rna)
+    * [RNN](#rnn)
   * [Sensor](#sensor)
   * [Wind Turbine](#wind-turbine)
 * [Interesting Data](#interesting-data)
@@ -75,6 +77,30 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Bearing
+
+#### JUST
+- [Data Link](https://data.mendeley.com/datasets/hwg8v5j8t6/1)
+- <details>
+  <summary>More detail</summary>
+  The fault test data set contains the vibration signal and sound emission 
+  signal of the slewing support under 9 working conditions, and clearly 
+  marks the collection time, fault label, speed, load, collection times 
+  and other relevant information of the slewing support. Among them, each
+  csv file contains a total of 7 columns of data, the first, fourth, 
+  fifth and sixth are listed as vertical vibration signals, the second 
+  and third are listed as horizontal vibration signals, and the seventh 
+  is listed as acoustic emission signals. Each csv file is named 
+  successively according to "collection time - fault type - speed 
+  - overturning force - sampling times of each working condition", 
+  for example, "20221208-N-2rpm-0N-1",... "20221208-N-2rpm-0N-5", 
+  where the sampling times of the slewing-bearing in different states 
+  under each working condition are 5 times. The data set consists of
+  one healthy slewing support and three slewing supports in single 
+  failure mode. Among them, the "healthy slewing support" is marked 
+  as "N", the "inner ring failure slewing support" is marked as "I", 
+  the "outer ring failure slewing support" is marked as "O", and the 
+  "one rolling body failure slewing support" is marked as "B1".
+</details>
 
 #### DLR
 - [Data Link](https://data.mendeley.com/datasets/chwhh9n3bf/2)
@@ -253,6 +279,31 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Gear
+
+#### MCC5-THU
+- [Data Link](https://data.mendeley.com/datasets/p92gj2732w/2)
+- [Paper](https://arxiv.org/abs/2403.12521)
+- <details>
+  <summary>More detail</summary>
+  The gearbox is a critical component of electromechanical systems. 
+  The occurrence of multiple faults can significantly impact system 
+  accuracy and service life. The vibration signal of the gearbox is
+  an effective indicator of its operational status and fault information. 
+  However, gearboxes in real industrial settings often operate under 
+  variable working conditions, such as varying speeds and loads. It is
+  a significant and challenging research area to complete the gearbox
+  fault diagnosis procedure under varying operating conditions using 
+  vibration signals. This data article presents vibration datasets
+  collected from a gearbox exhibiting various fault degrees of severity 
+  and fault types, operating under diverse speed and load conditions. 
+  These faults are manually implanted into the gears or bearings through
+  precise machining processes, which include health, missing teeth, wear,
+  pitting, root cracks, and broken teeth. Several kinds of actual compound
+  faults are also encompassed. The development of these datasets 
+  facilitates testing the effectiveness and reliability of newly 
+  developed fault diagnosis methods.
+</details>
+
 #### UNSW
 - [Data Link](https://data.mendeley.com/datasets/p72x3m92cv)
 - [Paper](https://doi.org/10.1016/j.ymssp.2022.108957)
@@ -280,7 +331,7 @@ Datasets with multiple working conditions for condition monitoring and fault dia
 </details>
 
 ### Pump
-#### RNA
+#### RNN
 - [Data Link](https://www.data-in-brief.com/article/S2352-3409(23)01017-X/fulltext)
 
 ### Sensor
